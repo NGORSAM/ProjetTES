@@ -7,7 +7,7 @@ import sprint1.dao.AdminDao;
 import sprint1.dao.ClientDao;
 import sprint1.dao.Connexion;
 
-
+//tested
 public class TestDb {
 
 	public static void main(String[] args) throws SQLException {
